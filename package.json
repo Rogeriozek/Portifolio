@@ -1,7 +1,7 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
-    "version": "5.0.7",
+    "title": "Portifolio",
+    "name": "Protifolio",
+    "version": "0.0.7",
     "scripts": {
         "start": "gulp watch"
     },
@@ -16,7 +16,7 @@
     ],
     "homepage": "https://startbootstrap.com/template-overviews/agency",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
+        "url": "https://github.com/Rogeriozek/Portifolio",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
@@ -26,7 +26,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+        "url": "https://github.com/Rogeriozek/Portifolio"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.8.1",
